@@ -1,0 +1,31 @@
+body {    
+        background: url("../images/desk-1220052_1920.jpg");
+        
+   
+}
+.section-1_1 {
+  
+        width: 50%;
+        height: 50%;
+        border: 8px solid black;
+        position: absolute;
+        left: 0;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        margin: auto;
+      
+}
+.section-1_1{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+}
+.dis{
+        display: flex;
+}
+input.pad {
+        /* padding: 6px 25px; */
+        margin: 5px 25px;
+    }
+    
